@@ -1,4 +1,4 @@
-package com.lucashv.course.servicies;
+package com.lucashv.course.services;
 
 import java.util.List;
 import java.util.Optional;

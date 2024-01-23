@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.lucashv.course.entities.User;
-import com.lucashv.course.servicies.UserService;
+import com.lucashv.course.services.UserService;
 
 @RestController
 @RequestMapping(value = "/users")
